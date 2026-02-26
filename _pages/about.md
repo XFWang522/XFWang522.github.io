@@ -31,7 +31,7 @@ My recent work focuses on **LLM agents**, **multi-agent reinforcement learning**
 
 - Email: `banyedy@sjtu.edu.cn`
 - GitHub: [XFWang522](https://github.com/XFWang522)
-- Google Scholar: [Profile](https://scholar.google.com.hk/citations?user=psCdg8EAAAAJ&hl=en)
+- Google Scholar: [Profile](https://scholar.google.com.hk/citations?user=pq6lod8AAAAJ&hl=en)
 
 </div>
 
@@ -59,6 +59,6 @@ My recent work focuses on **LLM agents**, **multi-agent reinforcement learning**
 
 - 邮箱：`banyedy@sjtu.edu.cn`
 - GitHub：[XFWang522](https://github.com/XFWang522)
-- Google Scholar：[主页](https://scholar.google.com.hk/citations?user=psCdg8EAAAAJ&hl=en)
+- Google Scholar：[主页](https://scholar.google.com.hk/citations?user=pq6lod8AAAAJ&hl=en)
 
 </div>
