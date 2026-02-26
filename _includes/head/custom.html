@@ -11,6 +11,29 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+<style>
+  #lang-toggle a {
+    border: 1px solid currentColor;
+    border-radius: 999px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+    margin-top: 0.2rem;
+    padding: 0.2rem 0.45rem;
+  }
+
+  html[lang="zh-CN"] .lang-en {
+    display: none !important;
+  }
+
+  html:not([lang="zh-CN"]) .lang-zh {
+    display: none !important;
+  }
+</style>
+<script defer src="{{ base_path }}/assets/js/lang-toggle.js"></script>
 
 <!-- Support for MatJax -->
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>

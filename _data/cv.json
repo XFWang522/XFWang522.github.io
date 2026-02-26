@@ -1,152 +1,187 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Xiaofeng Wang",
+    "email": "banyedy@sjtu.edu.cn",
+    "phone": "+86 18370005997",
+    "website": "https://XFWang522.github.io",
+    "summary": "M.S. student at Shanghai Jiao Tong University focusing on LLM agents, multi-agent RL, reasoning, and alignment.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Shanghai",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "psCdg8EAAAAJ",
+        "url": "https://scholar.google.com.hk/citations?user=psCdg8EAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "XFWang522",
+        "url": "https://github.com/XFWang522"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "ByteDance",
+      "position": "Algorithm Intern, Seed",
+      "startDate": "2025-09",
+      "endDate": "2025-12",
+      "summary": "Participated in R&D and optimization of Doubao multi-agent architecture.",
+      "highlights": [
+        "Worked on chat mode, Deep Research mode, and Super Mode architecture improvements."
+      ]
+    },
+    {
+      "name": "Taotian Group (Xianyu)",
+      "position": "Algorithm Intern",
+      "startDate": "2025-06",
+      "endDate": "2025-09",
+      "summary": "Upgraded multi-agent and E2E systems for AI consignment and social dialogue tasks.",
+      "highlights": [
+        "Improved seller penetration by nearly 40% among completed transactions.",
+        "Explored MARL and adaptive preference alignment; achieved Sotopia SOTA and exceeded GPT-4o by 14.7% on goal completion."
+      ]
+    },
+    {
+      "name": "ByteDance (Trae)",
+      "position": "Algorithm Intern",
+      "startDate": "2025-01",
+      "endDate": "2025-05",
+      "summary": "Designed multi-agent workflow and long-context code compression for code generation.",
+      "highlights": [
+        "Built RAG-based code compression with >98% target-file recall on SWE-bench.",
+        "Contributed to Fast Apply model training; 7B fine-tuned model reached >99% merge accuracy and 4-10x speedup."
+      ]
+    },
+    {
+      "name": "Ant Group",
+      "position": "LLM Algorithm Intern, Post-loan Team",
+      "startDate": "2024-06",
+      "endDate": "2025-01",
+      "summary": "Built and evaluated multi-agent debt collection negotiation systems.",
+      "highlights": [
+        "Designed evaluation and optimization paradigm for LLM debt-collection dialogue.",
+        "Built reward-model data workflow with over 90% consistency to human labeling."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Shanghai Jiao Tong University",
+      "area": "Information Engineering",
+      "studyType": "M.S.",
+      "startDate": "2023-09",
+      "endDate": "2026-03",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Shanghai Jiao Tong University",
+      "area": "Electronic Information",
+      "studyType": "B.E.",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "Go"
+      ]
+    },
+    {
+      "name": "ML/LLM Tooling",
+      "level": "Advanced",
+      "keywords": [
+        "PyTorch",
+        "ROLL",
+        "Verl",
+        "LLaMA-Factory"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "CET-6"
+    },
+    {
+      "language": "French",
+      "fluency": "TCF B2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "LLM agents",
+        "Multi-agent RL",
+        "Reasoning",
+        "Alignment"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Do Large Language Models Truly Understand Geometric Structures?",
+      "publisher": "ICLR",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "First author."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Debt Collection Negotiations with Large Language Models: An Evaluation System and Optimizing Decision Making with Multi-Agent.",
+      "publisher": "ACL",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "First author."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Weak-to-strong Preference Optimization: Stealing Reward from Weak Aligned Model.",
+      "publisher": "ICLR",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Third author."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Enhancing Social Intelligence in LLMs with Hierarchical Reasoning and Utterance-Level Goal Rewarding.",
+      "publisher": "ICLR Submission",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "First author."
+    },
+    {
+      "name": "Evaluating Bargaining Skills in Online Second-Hand Marketplace with LLM Seller Agents.",
+      "publisher": "ICLR Submission",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Co-first author."
+    },
+    {
+      "name": "MrRoPE: Mixed-radix Rotary Position Embedding.",
+      "publisher": "ICLR Submission",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Fourth author."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }

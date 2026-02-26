@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    <span class="lang-en" data-i18n-key="publication_scholar_tip">You can also find my articles on my Google Scholar profile.</span>
+    <span class="lang-zh" data-i18n-key="publication_scholar_tip">你也可以在我的 Google Scholar 主页查看论文列表。</span>
+    <a href="{{site.author.googlescholar}}">Google Scholar</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
@@ -31,6 +35,5 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 
