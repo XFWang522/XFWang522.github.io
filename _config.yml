@@ -22,7 +22,7 @@ repository               : "XFWang522/XFWang522.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "you.jpg"
+  avatar           : "you-20260226.jpg"
   name             : "Xiaofeng Wang (汪晓锋)"
   pronouns         : # example: "she/her"  
   bio              : "M.S. student at Shanghai Jiao Tong University. Research interests: LLM agents, multi-agent RL, reasoning, and alignment."
